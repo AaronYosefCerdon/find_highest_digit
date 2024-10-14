@@ -1,0 +1,7 @@
+#Define the variables for the 5 digits.
+
+#Ask the user to input 5 digits.
+
+#Use if statements to compare each digit.
+
+#Print the highest number.
