@@ -1,7 +1,22 @@
-#Define the variables for the 5 digits.
+#Define the variables for the 5 digits and then ask the user to input them.
 
-#Ask the user to input 5 digits.
+#Compare digit 1 to the other four variables.
 
-#Use if statements to compare each digit.
+#If digit 1 is the highest digit, print. 
 
-#Print the highest number.
+#Compare digit 2 to the other four variables.
+
+#If digit 2 is the highest digit, print. 
+
+#Compare digit 3 to the other four variables.
+
+#If digit 3 is the highest digit, print. 
+
+#Compare digit 4 to the other four variables.
+
+#If digit 4 is the highest digit, print. 
+
+#Compare digit 5 to the other four variables.
+
+#If digit 5 is the highest digit, print. 
+
