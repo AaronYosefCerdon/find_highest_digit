@@ -1,5 +1,15 @@
 #Define the variables for the 5 digits and then ask the user to input them.
 
+digit1 = float(input("Please input the first number: "))
+
+digit2 = float(input("Please input the second number: "))
+
+digit3 = float(input("Please input the third number: "))
+
+digit4 = float(input("Please input the fourth number: "))
+
+digit5 = float(input("Please input the fifth number: "))
+
 #Compare digit 1 to the other four variables.
 
 #If digit 1 is the highest digit, print. 
