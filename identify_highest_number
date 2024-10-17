@@ -12,21 +12,29 @@ digit5 = float(input("Please input the fifth number: "))
 
 #Compare digit 1 to the other four variables.
 
-#If digit 1 is the highest digit, print. 
+if digit1 > digit2 and digit1 > digit3 and digit1 > digit4 and digit1 > digit5:
+
+  #If digit 1 is the highest digit, print. 
+
+  print("The highest number is: ", digit1)
 
 #Compare digit 2 to the other four variables.
 
-#If digit 2 is the highest digit, print. 
+if digit2 > digit1 and digit2 > digit3 and digit2 > digit4 and digit2 > digit5:
+
+  #If digit 2 is the highest digit, print. 
+
+  print("The highest number is: ", digit2)
 
 #Compare digit 3 to the other four variables.
 
-#If digit 3 is the highest digit, print. 
+  #If digit 3 is the highest digit, print. 
 
 #Compare digit 4 to the other four variables.
 
-#If digit 4 is the highest digit, print. 
+  #If digit 4 is the highest digit, print. 
 
 #Compare digit 5 to the other four variables.
 
-#If digit 5 is the highest digit, print. 
+  #If digit 5 is the highest digit, print. 
 
