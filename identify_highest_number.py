@@ -30,3 +30,7 @@ if digit4 > digit1 and digit4 > digit2 and digit4 > digit3 and digit4 > digit5:
 if digit5 > digit1 and digit5 > digit2 and digit5 > digit3 and digit5 > digit4:
   #If digit 5 is the highest number, print. 
   print("The highest number is: ", digit5)
+
+#Compare digits 1 to 5 when two or more of them have the similar highest value.
+
+  #If two or more numbers are both the highest, print all of them.
